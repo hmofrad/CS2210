@@ -12,7 +12,7 @@ In case you want to use department resources, turn on the Plus Secure VPN, and s
 ## Install
     make 
 
-## Unistall
+## Uninstall
     make clean
 
 ## Run
