@@ -1,5 +1,6 @@
 # Project 1
 The project is already implemented. This is to help you easily configure and install it.
+
 ## Install Dependencies
     sudo apt update
     sudo apt install build-essential # Installs gcc, g++, make, etc. 
@@ -10,8 +11,10 @@ In case you want to use department resources, turn on the Plus Secure VPN, and s
 
 ## Install
     make 
+
 ## Unistall
     make clean
+
 ## Run
     ./go test.txt
 
