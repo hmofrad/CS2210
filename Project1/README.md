@@ -1,5 +1,5 @@
 # Project 1
-The project is already implemented. This is to help you easily configure and install the project.
+The project is already implemented. This is to help you easily configure and install it.
 ## Install Dependencies
     sudo apt update
     sudo apt install build-essential # Installs gcc, g++, make, etc. 
@@ -16,12 +16,12 @@ In case you want to use department resources, turn on the Plus Secure VPN, and s
     ./go test.txt
 
 ## Files
-    Input of lex: lex.l
-    Hash table and string table: table.c
-    Defines token numbers: token.h
-    Temporary driver: lexdrv.c
-    Make file: Makefile
-    Executable file: go
+    lex.l: Input of lex
+    table.c: Hash table and string table
+    token.h: Defines token numbers
+    lexdrv.c: Temporary driver
+    Makefile: Make file
+    go: Executable file
 
 ## Notes
     Comments in this form is treated as correct:
