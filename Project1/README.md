@@ -3,8 +3,8 @@ The project is already implemented. This is to help you easily configure and ins
 
 ## Install Dependencies
     sudo apt update
-    sudo apt install build-essential # Installs gcc, g++, make, etc. 
-    sudo apt-get install flex # Installs flex
+    sudo apt install build-essential # Install gcc, g++, make, etc. 
+    sudo apt-get install flex # Install flex
     gcc --version # Confirm gcc installation
     flex --version # Confirm flex installation
 In case you want to use department resources, turn on the Plus Secure VPN, and ssh to **germanium.cs.pitt.edu**. Above packages are already installed on this machine. 
