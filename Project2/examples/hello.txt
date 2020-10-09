@@ -1,0 +1,10 @@
+/* EXAMPLE 1: A Hello World Program */
+
+program xyz;
+class Test
+{
+  method int main ()
+  {
+    System.println ('Hello World !!!');
+  }
+}
