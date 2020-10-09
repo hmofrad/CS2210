@@ -32,4 +32,4 @@ In case you want to use department resources, turn on the Plus Secure VPN, and s
     Makefile: Make file
 
 ## Submission
-Make a your_pitt_id.[zip|tar|tar.gz], e.g., moh18.zip archive from your project and submit it by the due date. 
+Make a your_pitt_id.[zip|tar|tar.gz] archive, e.g., moh18.zip from your project and submit it by the due date. 
