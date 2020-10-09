@@ -27,14 +27,14 @@ In case you want to use department resources, turn on the Plus Secure VPN, and s
     Makefile: Make file
 
 ## Notes
-    Comments in this form is treated as correct:
-        /*....../*........*/
-        ^------------------^match
-    Nested comments are considered as:
-        /*....../*........*/........*/
-        ^------------------^---------^
-        match      comment with no beginning
+Comments in this form is treated as correct:
+    /*....../*........*/
+    ^------------------^match
+Nested comments are considered as:
+    /*....../*........*/........*/
+    ^------------------^---------^
+    match      comment with no beginning
 
 ## Submission
-    Your task is to have a look at the source files and try to understand what is happening. 
-    No submission is required for this project
+Your task is to have a look at the source files and try to understand what is happening. 
+No submission is required for this project
