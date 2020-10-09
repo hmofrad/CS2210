@@ -23,8 +23,8 @@ In case you want to use department resources, turn on the Plus Secure VPN, and s
     table.c: Hash table and string table
     token.h: Defines token numbers
     lexdrv.c: Temporary driver
-    Makefile: Make file
     go: Executable file
+    Makefile: Make file
 
 ## Notes
     Comments in this form is treated as correct:
