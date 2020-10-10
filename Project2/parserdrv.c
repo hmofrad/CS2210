@@ -1,13 +1,3 @@
-/*
-  Copyright (C) Mohammad Hasanzadeh Mofrad - All Rights Reserved
-  Course: CS 2210 - Compiler Design (Spring 2016)
-  Project: Mini Java - part 2 - Syntax Analyzer
-  File: Parser Driver engine
-  Author: Mohammad Hasanzadeh Mofrad
-  Email: hasanzadeh@cs.pitt.edu
-  Date: February 2016; Last revision 02-25-2016
-*/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
