@@ -1,3 +1,5 @@
+#!/usr/bin/make
+
 go      : lexdrv.o lex.yy.o table.o
 	cc -o go lexdrv.o lex.yy.o table.o -ll
 lexdrv.o: lexdrv.c token.h
