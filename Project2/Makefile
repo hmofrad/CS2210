@@ -1,10 +1,4 @@
-#parser:   y.tab.c lex.yy.c table.c proj2.c
-#	cc  -g -o parser y.tab.c proj2.c -lfl
-#
-#y.tab.c:  grammar.y
-#	yacc -v grammar.y
-#lex.yy.c: lex.l token.h 
-#	flex lex.l
+#!/usr/bin/make
 
 all:
 	flex lex.l
