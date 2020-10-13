@@ -19,7 +19,7 @@
 %type  <tptr>  ArrayCreationExpression_tail MethodDecl FormalParameterList_z1 FormalParameterList
 %type  <tptr>  FormalParameterList_rec IDENTIFIER_rec Block Type Type_front 
 %type  <tptr>  StatementList Statement_rec Statement AssignmentStatement MethodCallStatement
-%type  <tptr>  MethodCallStatement_tail Expression_rec ReturnStatement IfStatement If_rec WhileStatement
+%type  <tptr>  MethodCallStatement_tail Expression_rec ReturnStatement IfStatement WhileStatement
 %type  <tptr>  Expression Comp_op SimpleExpression Term Factor Expression_rec2
 %type  <tptr>  UnsignedConstant Variable Variable_tail Variable_rec Variable_1 
 
