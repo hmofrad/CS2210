@@ -3,8 +3,9 @@
 program xyz;
 class Test {
   method int main () {
-    if (x > 1) { x:= 2; }
-    else if(x < 1) { x:=30; }
-    else { x:= 3; };
+    if (x > 1) { x:= 20; }
+    else if(x < 2) { x:=30; }
+    else { x:= 40; };
   }
 }
+
