@@ -1,0 +1,17 @@
+/*Test case 4: number of function parameters */
+program err4;
+class myTest
+{
+	method int func(int x, y, z)
+	{
+	return z+x+y;
+	}
+
+}
+class test1
+{
+	method void main()
+	{
+	myTest.func(2);
+	}
+}
