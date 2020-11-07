@@ -20,7 +20,7 @@ In case you want to use department resources, turn on the Plus Secure VPN, and s
     make clean
 
 ## Run
-    ./go examples/hello.txt
+    ./go examples/err1.txt
 
 ## Files
     lex.l: Input of lex
