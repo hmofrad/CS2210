@@ -1,0 +1,21 @@
+/*duplicate "main" method */
+program err5;
+class myTest
+{
+	declarations
+		int x, y;
+	enddeclarations
+
+	method void main()
+	{
+	return x;
+	}
+}
+
+class test1
+{
+	method void main()
+	{
+	/* nothing */
+	}
+}
