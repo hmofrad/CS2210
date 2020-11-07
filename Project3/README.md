@@ -1,6 +1,6 @@
 
 # Project 2
-Your task is to complete the grammar for the if-statement (line 289 in grammar.y).
+Your task is to complete seman.c for recognizing (un)defined variables (line 246 in seman.c).
 
 ## Install Dependencies
     sudo apt update
