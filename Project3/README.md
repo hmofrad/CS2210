@@ -28,6 +28,7 @@ In case you want to use department resources, turn on the Plus Secure VPN, and s
     grammar.y: Grammar for YACC
     proj2.c & proj2.h: Library to print syntax tree
     proj3.c & proj3.h: Library to print semantic tree
+    seman.c: Semantic analyzer
     go: Executable file
     Makefile: Make file
 
