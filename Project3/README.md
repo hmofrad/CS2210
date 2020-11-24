@@ -1,5 +1,5 @@
 
-# Project 2
+# Project 3
 Your task is to complete seman.c for recognizing (un)defined variables (line 246 in seman.c).
 
 ## Install Dependencies
